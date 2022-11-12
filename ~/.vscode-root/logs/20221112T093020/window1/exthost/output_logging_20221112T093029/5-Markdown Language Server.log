@@ -1,0 +1,13 @@
+[Trace 17:30:46.506] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Trace 17:30:46.507] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Trace 17:30:46.509] Server: connection.languages.diagnostics.on: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Trace 17:30:46.512] Server: connection.languages.diagnostics.on: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Trace 17:30:46.517] DocumentSymbolProvider: provideDocumentSymbols — file:///home/quhaidong/workspace/Project/ZeusSwap/README.md 1
+[Debug 17:30:46.518] LinkProvider: compute - file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Debug 17:30:46.664] TableOfContentsProvider: create - file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Debug 17:30:46.747] MdFoldingProvider: provideFoldingRanges — file:///home/quhaidong/workspace/Project/ZeusSwap/README.md 1
+[Trace 17:30:46.827] DocumentSymbolProvider: provideDocumentSymbols — file:///home/quhaidong/workspace/Project/ZeusSwap/README.md 1
+[Debug 17:30:47.253] MdFoldingProvider: provideFoldingRanges — file:///home/quhaidong/workspace/Project/ZeusSwap/README.md 1
+[Trace 17:30:57.910] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Trace 17:35:16.496] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
+[Trace 17:35:16.497] VsCodeClientWorkspace: deleteDocument: file:///home/quhaidong/workspace/Project/ZeusSwap/README.md
