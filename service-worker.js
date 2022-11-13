@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ZeusSwap/precache-manifest.d6485e67ef940fe30df9764955e04d22.js"
+  "/ZeusSwap/precache-manifest.fd1ccca811b33b567b955a53addf4b5c.js"
 );
 
 self.addEventListener('message', (event) => {

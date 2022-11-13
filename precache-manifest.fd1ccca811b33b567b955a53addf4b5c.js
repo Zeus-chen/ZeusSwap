@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffa2166a7621a7be9094cbdf46efca37",
+    "revision": "3d0d7c74c3e534c14ab3fa11db99c3e7",
     "url": "/ZeusSwap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ZeusSwap/static/js/9.daae23d8.chunk.js"
   },
   {
-    "revision": "85d1e63c01e1d5cc1f1c",
-    "url": "/ZeusSwap/static/js/main.02145210.chunk.js"
+    "revision": "06c53e93f5749f253c23",
+    "url": "/ZeusSwap/static/js/main.ebfb8f54.chunk.js"
   },
   {
     "revision": "2223e92d81eab13f025e",
@@ -316,12 +316,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ZeusSwap/static/media/walletConnectIcon.8215855c.svg"
   },
   {
-    "revision": "0fdb877dc097b1579f044318c07be7da",
-    "url": "/ZeusSwap/static/media/wordmark.0fdb877d.svg"
+    "revision": "3386bc1b2a712d3c5c8bdf4aa481f896",
+    "url": "/ZeusSwap/static/media/wordmark.3386bc1b.svg"
   },
   {
-    "revision": "d04811bb2886e005e4f6d9c826d4a0ff",
-    "url": "/ZeusSwap/static/media/wordmark_white.d04811bb.svg"
+    "revision": "01d8565ae702c7bfa3c9a4e242dcb5df",
+    "url": "/ZeusSwap/static/media/wordmark_white.01d8565a.svg"
   },
   {
     "revision": "5b8e218668bfea1d44b887bd042f6a52",

@@ -4,8 +4,8 @@
     "static/js/0.7b2b5fe3.chunk.js.map": "/ZeusSwap/static/js/0.7b2b5fe3.chunk.js.map",
     "static/js/1.7ff3614b.chunk.js": "/ZeusSwap/static/js/1.7ff3614b.chunk.js",
     "static/js/1.7ff3614b.chunk.js.map": "/ZeusSwap/static/js/1.7ff3614b.chunk.js.map",
-    "main.js": "/ZeusSwap/static/js/main.02145210.chunk.js",
-    "main.js.map": "/ZeusSwap/static/js/main.02145210.chunk.js.map",
+    "main.js": "/ZeusSwap/static/js/main.ebfb8f54.chunk.js",
+    "main.js.map": "/ZeusSwap/static/js/main.ebfb8f54.chunk.js.map",
     "runtime-main.js": "/ZeusSwap/static/js/runtime-main.0ba59e6b.js",
     "runtime-main.js.map": "/ZeusSwap/static/js/runtime-main.0ba59e6b.js.map",
     "static/css/4.d7a5a61f.chunk.css": "/ZeusSwap/static/css/4.d7a5a61f.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.daae23d8.chunk.js": "/ZeusSwap/static/js/9.daae23d8.chunk.js",
     "static/js/9.daae23d8.chunk.js.map": "/ZeusSwap/static/js/9.daae23d8.chunk.js.map",
     "index.html": "/ZeusSwap/index.html",
-    "precache-manifest.d6485e67ef940fe30df9764955e04d22.js": "/ZeusSwap/precache-manifest.d6485e67ef940fe30df9764955e04d22.js",
+    "precache-manifest.fd1ccca811b33b567b955a53addf4b5c.js": "/ZeusSwap/precache-manifest.fd1ccca811b33b567b955a53addf4b5c.js",
     "service-worker.js": "/ZeusSwap/service-worker.js",
     "static/css/4.d7a5a61f.chunk.css.map": "/ZeusSwap/static/css/4.d7a5a61f.chunk.css.map",
     "static/js/4.775b0d08.chunk.js.LICENSE.txt": "/ZeusSwap/static/js/4.775b0d08.chunk.js.LICENSE.txt",
@@ -54,14 +54,14 @@
     "static/media/spinner.svg": "/ZeusSwap/static/media/spinner.be00fc4a.svg",
     "static/media/trustWallet.png": "/ZeusSwap/static/media/trustWallet.edcc1ab5.png",
     "static/media/walletConnectIcon.svg": "/ZeusSwap/static/media/walletConnectIcon.8215855c.svg",
-    "static/media/wordmark.svg": "/ZeusSwap/static/media/wordmark.0fdb877d.svg",
-    "static/media/wordmark_white.svg": "/ZeusSwap/static/media/wordmark_white.d04811bb.svg",
+    "static/media/wordmark.svg": "/ZeusSwap/static/media/wordmark.3386bc1b.svg",
+    "static/media/wordmark_white.svg": "/ZeusSwap/static/media/wordmark_white.01d8565a.svg",
     "static/media/x.svg": "/ZeusSwap/static/media/x.5b8e2186.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ba59e6b.js",
     "static/css/4.d7a5a61f.chunk.css",
     "static/js/4.775b0d08.chunk.js",
-    "static/js/main.02145210.chunk.js"
+    "static/js/main.ebfb8f54.chunk.js"
   ]
 }
